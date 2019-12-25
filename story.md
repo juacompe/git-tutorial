@@ -15,6 +15,9 @@
 ## 7 กระโดดลงไปในปล่องไฟ
 เทียนดับดังฟู่... ความหนาวเข้าครอบหงำ ...เอ้ย ครอบงำ ในเมืองทางใต้ของดินแดงอันไกลโพ้น
 มีนายชาม เอ้ย ชายนาม สกายวอร์คเกอร์ ผู้มี force -f
+![Image description](https://cdn3.movieweb.com/i/article/wwmiWDZiekgmiYZEs1HEaueZ4UlTn2/1200:100/Star-Wars-9-Luke-Skywalker-Rumors.jpg)
+
+
 
 ## 8 ข้ามดอกลิลลี่
 ปลากระดี่พ่นน้ำ
