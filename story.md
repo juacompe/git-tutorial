@@ -17,6 +17,7 @@
 มีนายชาม เอ้ย ชายนาม สกายวอร์คเกอร์ ผู้มี force -f
 ![Image description](https://cdn3.movieweb.com/i/article/wwmiWDZiekgmiYZEs1HEaueZ4UlTn2/1200:100/Star-Wars-9-Luke-Skywalker-Rumors.jpg)
 
+เข้าฝึกวิชา force จนเป็น Jedi ผู้ทรงปัง (เขียว ๆนั่นไม่ใช่ดาบของเขา...)
 
 
 ## 8 ข้ามดอกลิลลี่
