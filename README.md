@@ -20,7 +20,7 @@ For teaching git basic to my teams
 เพื่อไม่ให้เป็นการเสียเวลาระหว่าง workshop ผมอยากให้ทุกคน setup ของให้เรียบร้อยก่อน โดยสิ่งที่ต้องเตรียมมี 6 อย่างดังนี้
 
 1. install git ในเครื่อง
-1. สมัคร github account (ถ้ายังไม่มี)
+1. [สมัคร github account](https://github.com/join?source_repo=juacompe%2Fgit-tutorial) (ถ้ายังไม่มี)
 1. set ให้เครื่องสามารถ push มาที่ github ได้ [โดยการadd ssh key ของเครื่องเข้ามาใน github account](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)
 1. ส่ง username ของ github มาให้ผม เพื่อให้ผม add คุณเป็น collaborator ใน project นี้ (เพื่อให้คุณ push มาที่ project นี้ได้ตรง ๆ)
 1. กดรับ email invitation ที่เชิญคุณมาเป็น contributor ของ project นี้
