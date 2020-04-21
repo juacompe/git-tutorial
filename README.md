@@ -23,7 +23,7 @@ For teaching git basic to my teams
 1. สมัคร github account (ถ้ายังไม่มี)
 1. set ให้เครื่องสามารถ push มาที่ github ได้ [โดยการadd ssh key ของเครื่องเข้ามาใน github account](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)
 1. ส่ง username ของ github มาให้ผม เพื่อให้ผม add คุณเป็น collaborator ใน project นี้ (เพื่อให้คุณ push มาที่ project นี้ได้ตรง ๆ)
-1. กดรับ email invitation ที่เชิญคุณมาเป็น collaborator
+1. กดรับ email invitation ที่เชิญคุณมาเป็น contributor ของ project นี้
 1. clone project นี้เตรียมไว้ในเครื่อง
 
 เท่านี้เราก็จะพร้อมทำ workshop กันละ :)
