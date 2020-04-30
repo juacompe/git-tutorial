@@ -33,6 +33,7 @@ My name is House. Im a wolverine. Iam waiting for you.
       เพื่อนปูตอบว่า
       เรามีเข็มทิศ
       ปูอีกตัวงง
+      เข็มทิศทีว่า
 แม็ก
 
 ## 10. ปูนากำลังยกน้ำหนัก
