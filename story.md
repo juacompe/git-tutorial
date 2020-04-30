@@ -51,3 +51,4 @@ My name is House. Im a wolverine. Iam waiting for you.
 
 ชาวนากำลังเดินไปน:า
 ## 13. กลีบดอกไม้
+แนนจํะ แนนจ๊ะ
