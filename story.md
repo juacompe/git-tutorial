@@ -1,5 +1,5 @@
 ## 1. หมาป่า
-My name is House. Im a wolverine. Should I do anything?
+My name is House. Im a wolverine. Iam waiting for you.
 ## 2. กระโดดทะลุกระจก
 
 ## 3. ออกมาจาก facebook
