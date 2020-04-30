@@ -1,5 +1,5 @@
 ## 1. หมาป่า
-I am house
+My name is House. Im a wolverine. Should I do anything?
 ## 2. กระโดดทะลุกระจก
 
 ## 3. ออกมาจาก facebook
@@ -25,6 +25,7 @@ I am house
       ไปหาหอยกิน
       แต่เพื่อนปูถาม
       มึงรู้ทางเหรอ
+      เพื่อนปูตอบว่า
 แม็ก
 
 ## 10. ปูนากำลังยกน้ำหนัก
