@@ -1,5 +1,6 @@
 ## 1. หมาป่า
 ###### *ตั้ม ตั้ม ตั้ม*
+![wolf](http://4.bp.blogspot.com/-ClnvE-3tOFM/VLbWKvgcvgI/AAAAAAAAvxw/sukVOcQHPo8/s1600/14%2B-%2B1.jpg)
 
 ## 2. กระโดดทะลุกระจก
 
