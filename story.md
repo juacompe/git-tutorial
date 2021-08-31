@@ -26,6 +26,8 @@ Toeytuii
 
 ทุกๆ วันก่อนชั้นจะออกไปทำงาน ชั้นจะต้องติดกิ๊บอันใหญ่ทุกวัน ยังกะชั้นแบกอะไรไว้บนหัว 
 
+![gift](https://image.bestreview.asia/wp-content/uploads/2020/08/%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%A7-%E0%B8%81%E0%B8%B4%E0%B9%8A%E0%B8%9A%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%9C%E0%B8%A1-%E0%B8%94%E0%B8%B5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%9B%E0%B8%B5-2020.jpg)
+
 ## 6. เห็ด
 Melon (online)
 
